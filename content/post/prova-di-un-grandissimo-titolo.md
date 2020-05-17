@@ -2,7 +2,8 @@
 title: Il succo di minchia
 date: 2020-05-17
 hero: "/images/hero-3.jpg"
-excerpt: Oggi scopriamo cos'è e da cosa sa
+excerpt: Oggi scopriamo cos'è e da cosa sa Oggi scopriamo cos'è e da cosa sa Oggi
+  scopriamo cos'è e da cosa sa Oggi scopriamo cos'è e da cosa sa
 timeToRead: 3
 authors:
 - Matteo Gnan
