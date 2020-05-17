@@ -1,9 +1,9 @@
 ---
-title: Il succo di minchia
+title: 'Il succo di minchia, un succo incredibile con 10 proprietà diverse '
 date: 2020-05-17
 hero: "/images/hero-3.jpg"
-excerpt: Oggi scopriamo cos'è e da cosa sa Oggi scopriamo cos'è e da cosa sa Oggi
-  scopriamo cos'è e da cosa sa Oggi scopriamo cos'è e da cosa sa
+excerpt: Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia
+  e della stampa.
 timeToRead: 3
 authors:
 - Matteo Gnan
