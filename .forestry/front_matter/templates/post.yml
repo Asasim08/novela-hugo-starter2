@@ -41,5 +41,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/prova-di-cucina.md
 - content/post/prova-di-un-grandissimo-titolo.md
 - content/post/prova-ufficiale-di-un-nuovo-post-questa-volta-per-davvero.md
