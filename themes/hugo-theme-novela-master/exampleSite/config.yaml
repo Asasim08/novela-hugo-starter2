@@ -1,10 +1,7 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "SpeechJuice"
+title: "Hugo Novela"
 pygmentsstyle: 'monokai'
-
-# Theme settings
-theme: hugo-theme-novela-master
 paginate: 6
 social:
   twitter: "#"
