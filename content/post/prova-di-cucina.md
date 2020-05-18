@@ -1,11 +1,13 @@
 ---
-title: 'Prova di cucina'
+title: Prova di cucina
 date: 2020-05-17
 hero: "/images/hero-2-1.jpg"
 excerpt: Zabo gay
 timeToRead: 3
 authors:
 - Matteo Gnan
+draft: true
+
 ---
 ## Cos’è Lorem Ipsum?
 
