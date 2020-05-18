@@ -1,5 +1,5 @@
 ---
-title: 'Il succo di minchia, un succo incredibile con 10 proprietà diverse '
+title: 'Il succo di minchia, una bevanda incredibile con 10 proprietà diverse '
 date: 2020-05-17
 hero: "/images/hero-3.jpg"
 excerpt: Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia
