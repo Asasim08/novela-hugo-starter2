@@ -454,7 +454,7 @@
 
 /**************************************ARTICLE NEXT**************************************/
 
-/*.footer-next-heading{
+.footer-next-heading{
     display: block;
     font-size: 1.6rem;
     position: relative;
@@ -467,7 +467,7 @@
     color: var(--primary);
 
     /*TABLET*/
-/*    @media screen and (max-width: $tablet){
+    @media screen and (max-width: $tablet){
         margin-bottom: 60px;
     }
 
@@ -482,22 +482,22 @@
         top: 50%;
 
         /*TABLET*/
-/*        @media screen and (max-width: $tablet){
+        @media screen and (max-width: $tablet){
           width: 41.7%;
         }
 
         /*PHABLET*/
-/*        @media screen and (max-width: $phablet){
+        @media screen and (max-width: $phablet){
             width: 27.8%;
         }
 
         /*PHONE*/
-/*        @media screen and (max-width: $phone){
+        @media screen and (max-width: $phone){
             width: 90px;
         }
     }
 }
-*/
+
 .footer-spacer{
     margin-bottom: 65px;
 }
