@@ -1,7 +1,7 @@
 ---
-title: 'Prova ufficiale di un nuovo post, questa volta per davvero'
+title: Prova ufficiale di un nuovo post, questa volta per davvero
 date: 2020-05-17
-hero: "/images/large.jpg"
+hero: /images/large.jpg
 excerpt: Buy nice or buy twice
 timeToRead: 10
 authors:
