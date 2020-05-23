@@ -1,11 +1,27 @@
 ---
-title: Prova ufficiale di un nuovo post, questa volta per davvero
-date: 2020-05-17
+title: Penso.Scrivo.Dico.
+date: 
 hero: "/images/large.jpg"
-excerpt: Buy nice or buy twice
+excerpt: La necessità di trasmettere
 timeToRead: 10
 authors:
 - Matteo Gnan
+draft: true
 
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+# Penso.Scrivo.Dico
+
+La necessità di trasmettere.
+
+Ho sempre pensato che scrivere sia la forma più semplice e autentica per essere liberi,liberi di esprimere,liberi di contagiare gli altri con ciò che realmente abbiamo dentro.  
+Quello che davvero però permette di fare la scrittura,a parer mio, è trasmettere.
+
+Ma cosa significa realmente "trasmettere"?Il significato letterale più chiaro è ovviamente quello di "dare" un qualcosa a qualcun'altro,far avere ciò che è tuo ad un'altro individuo.
+
+  
+Tutti i giorni, ognuno di noi, trasmette senza sosta:  
+Parole,pensieri,oggetti.  
+Trasmettiamo amore talvolta dolore.  
+Bugie,verità,insulti,complimenti.
+
+Trasmettiamo, molto spesso, con lo scopo non di dare(come la parola stessa prevede) bensì di ricevere.
