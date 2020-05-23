@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Pensieri e commenti, per così dire... il Succo del Discorso.
+  heading: Scrivere è il modo più facile per sentirsi liberi
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
