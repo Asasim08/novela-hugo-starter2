@@ -6,7 +6,6 @@ excerpt: La necessità di trasmettere
 timeToRead: 10
 authors:
 - Matteo Gnan
-draft: true
 
 ---
 # Penso.Scrivo.Dico
@@ -31,6 +30,6 @@ Poco.
 
 Sto imparando che se vogliamo davvero arricchire noi stessi, mentalmente,emotivamente e spiritualmente dobbiamo **trasmettere** ciò che siamo agli altri.  
 Questo implica però che dobbiamo per forza di cose "essere qualcuno" e il modo migliore per raggiungere questo traguardo è quello di captare le **trasmissioni** delle altre persone.  
-Come una ruota, la nostra vacuità verrà meno nel momento in cui riusciremo a nutrirci e riempirci di ciò che altri individui ci **trasmetteranno**.
+Come una ruota che gira, la nostra vacuità verrà meno nel momento in cui riusciremo a nutrirci e riempirci di ciò che altri individui ci **trasmetteranno**, per poi svuotarci nuovamente pronti per essere arricchiti di nuovo.
 
-Quello che tenterò di fare 
+Quello che tenterò di fare con i miei scritti è di farvi percepire ciò che sento e penso in maniera più approfondita possibile,non solo parlando di me in particolare ma anche di ciò che accade nel mondo,**trasmettendovi** però sempre qualcosa.
