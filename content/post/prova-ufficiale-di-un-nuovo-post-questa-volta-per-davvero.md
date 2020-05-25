@@ -3,7 +3,7 @@ title: Penso.Scrivo.Dico.
 date: 
 hero: "/images/large.jpg"
 excerpt: La necessità di trasmettere
-timeToRead: 10
+timeToRead: 4
 authors:
 - Matteo Gnan
 draft: true
