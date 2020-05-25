@@ -1,6 +1,6 @@
 ---
 title: Penso.Scrivo.Dico.
-date: 2020-05-01T10:58:00+00:00
+date: 
 hero: "/images/large.jpg"
 excerpt: La necessità di trasmettere
 timeToRead: 10
