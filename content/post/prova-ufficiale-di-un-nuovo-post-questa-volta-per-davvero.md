@@ -6,10 +6,9 @@ excerpt: La necessità di trasmettere
 timeToRead: 4
 authors:
 - Matteo Gnan
-draft: true
 
 ---
-# Penso.Scrivo.Dico
+# Penso.Scrivo.Dico.
 
 La necessità di **trasmettere**.
 
