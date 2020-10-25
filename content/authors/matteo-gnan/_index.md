@@ -5,7 +5,7 @@ bio: 'Sono un ragazzo di Caorle, in provincia di Venezia, con la passione per la
   i miei pensieri,desideri e sogni.
 
 '
-avatar: "/images/matteo-gnan.jpg"
+avatar: "/images/thumbnail_372225aa-2afc-4a0e-8497-f7f0ad20f753.jpg"
 featured: true
 social: []
 
