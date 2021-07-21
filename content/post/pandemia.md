@@ -13,7 +13,7 @@ title = "Pandemia"
 
 A fine ‘800 la chiesa anglicana utilizzò l’espressione Annus Horribilis per indicare l’anno in cui venne proclamato, dalla chiesa cattolica, il dogma dell’infallibilità papale.
 
-Mi permetto di usare questo latinismo per indicare il 2020 che, senza ombra di dubbio, ha tutte le carte in regola per rappresentarlo.
+Mi permetto di usare questa espressione latina per indicare il 2020 che, senza ombra di dubbio, ha tutte le carte in regola per rappresentarlo.
 
 La pandemia di COVID 19 ha senz’altro cambiato il mondo e tutt’ora la sua morsa non ha mollato la presa, nonostante i vaccini e tutte le precauzioni del caso.
 
@@ -23,7 +23,6 @@ Quello che però mi domando continuamente è:
 
 Cos’è cambiato dal pre Covid al post(in corso) Covid?
 
-  
 **Cos’è cambiato?**
 
 Durante il primo “lockdown”, quello più restrittivo, ho letto e sentito da più parti, che tutto ciò avrebbe forse portato a un cambiamento positivo nelle persone, si sarebbe creata una maggiore empatia l’uni verso gli altri dettata dal ritrovarsi tutti nella medesima situazione di confinamento forzato dentro le mura di casa.
