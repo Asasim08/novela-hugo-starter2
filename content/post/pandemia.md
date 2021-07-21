@@ -3,7 +3,7 @@ authors = []
 date = 2021-07-20T09:54:00Z
 draft = true
 excerpt = "Cos’è cambiato?"
-hero = ""
+hero = "/images/e61d990b-71fa-437d-9fad-48f803445b36.jpeg"
 timeToRead = 3
 title = "Pandemia"
 
